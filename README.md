@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Amanda. Trying to get some coding skills back after leaving the workforce for a bit.
+
 <!--
 **AmandaZidek/AmandaZidek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
